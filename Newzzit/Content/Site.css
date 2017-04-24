@@ -24,5 +24,21 @@ textarea {
 }
 
 h3 {
-    margin-top: 10px;
+    margin-top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer {
+    font-size: 10px;
+    color: transparent;
+}
+body {
+    background-color: #D1FFE2;
+}
+.navbar-inverse {
+    background-color: #134214;
+    border-color: black;
+    border: 3px;
 }
